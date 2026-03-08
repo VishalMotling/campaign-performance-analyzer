@@ -34,7 +34,7 @@ When you export campaign data from Google Ads, it looks like this:
 
 | Detail | Value |
 |--------|-------|
-| Company | Nakoda Machinery Pvt. Ltd. |
+| Company | Indus Crusher |
 | Industry | B2B Industrial (Mining & Construction Machinery) |
 | Location | Maharashtra → Pan India targeting |
 | Period | July 8 – July 31, 2025 (23 days) |
